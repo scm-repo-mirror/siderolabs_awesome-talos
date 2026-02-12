@@ -60,6 +60,7 @@ Collection of awesome talos resource from the community
 
 - [cluster-template](https://github.com/onedr0p/cluster-template) Opinionated template for deployment a talos cluster
 - [Hcloud Kubernetes](https://github.com/hcloud-k8s/terraform-hcloud-kubernetes) Terraform Module to Deploy a Highly Available, Production-Ready Talos Kubernetes Cluster on Hetzner Cloud
+- [Kangal-Patch](https://github.com/uozalp/kangal-patch) Automates rolling upgrades of Talos Linux nodes in Kubernetes clusters, handling draining, updates, and reboots safely.
 - [Kubernetes as a Service](https://github.com/kubebn/talos-proxmox-kaas) Example Terraform deployment on Proxmox
 - [terraform proxmox cluster](https://github.com/roeldev/iac-talos-cluster) Deploy a Talos OS-based cluster in Proxmox using Terraform, with Cilium and ArgoCD
 - [terraform vsphere cluster](https://github.com/ilpozzd/terraform-talos-vsphere-cluster) Deploy a Kubernetes cluster based on Talos OS in vSphere
@@ -71,7 +72,6 @@ Collection of awesome talos resource from the community
 - [talos-controlplane-on-k8s](https://github.com/blackliner/talos-controlplane-on-k8s) Run a Talos controlplane inside a Kubernetes cluster
 - [Talos CSR Signer](https://github.com/clastix/talos-csr-signer) gRPC Server satisfying `securityapi` signature to let Talos-based worker nodes join a kubeadm-based Kubernetes Hosted Control Plane
 - [tuppr](https://github.com/home-operations/tuppr) Kubernetes controller to upgrade Talos and Kubernetes
-- [Kangal-Patch](https://github.com/uozalp/kangal-patch) Automates rolling upgrades of Talos Linux nodes in Kubernetes clusters, handling draining, updates, and reboots safely.
 
 </details>
 
